@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">book</string>
+
+    <string-array name="book_name">
+        <item>The Angel Next Door Spoils Me Rotten.</item>
+        <item>The Neighboring Alya-san who Sometimes Acts Affectionate and Murmuring in Russian.</item>
+        <item>Gimai seikatsu</item>
+    </string-array>
+
+    <string-array name="made">
+        <item>japan</item>
+        <item>japan</item>
+        <item>japan</item>
+    </string-array>
+
+    <string-array name="book_price">
+        <item>290</item>
+        <item>275</item>
+        <item>275</item>
+    </string-array>
+
+    <!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+</resources>
